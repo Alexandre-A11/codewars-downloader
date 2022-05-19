@@ -1,13 +1,15 @@
-[Bikcraft](./Bikcraft-Site/index.html)
+[Bikcraft](https://alexandre-a11.github.io/projects/Bikcraft-Site/index.html)
 
-[Edge](./Edge_Ledger/index.html)
+[Edge](https://alexandre-a11.github.io/projects/Edge_Ledger/index.html)
 
-[NewsGrid](./hotel_website.html)
+[Hotel](https://alexandre-a11.github.io/projects/hotel_website/index.html)
 
-[Presentation Website](./Presentation_Website/index.html)
+[NewsGrid](https://alexandre-a11.github.io/projects/NewsGrid/index.html)
 
-[Card Profile](./card-profile/index.html)
+[Presentation Website](https://alexandre-a11.github.io/projects/Presentation_Website/index.html)
 
-[Pig Game](./pig-game/index.html)
+[Card Profile](https://alexandre-a11.github.io/projects/card-profile/index.html)
+
+[Pig Game](https://alexandre-a11.github.io/projects/pig-game/index.html)
 
 CodeWars Download
