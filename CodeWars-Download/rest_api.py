@@ -7,7 +7,7 @@ USER_CHALLENGES = "/code-challenges/completed?page={page}"
 CHALLENGES = "https://www.codewars.com/api/v1/code-challenges/"
 LANGUAGES = ["python", "javascript", "cpp", "php"]
 PATH_DIRECTORY = (
-    "/mnt/Disco-Local/Cloud/Code/Desafios/CodeWars/"
+    "/mnt/Extra/Code/Desafios/CodeWars/"
     if platform.system() == "Linux"
     else f"Y:\\OneDrive\\Code\\Git\\Desafios\\CodeWars\\"
 )
