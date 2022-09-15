@@ -16,6 +16,6 @@
 
 [Portfolio](<https://alexandre-a11.github.io/learning-courses/100-Days-of-Code-(Python)/Day-44%20-%20Web%20Foundation%20-%20Intermediate%20CSS/index.html>)
 
-[Bin2Dex](https://github.com/Alexandre-A11/projects/tree/main/Bin2Dec)
+[Bin2Dec](https://github.com/Alexandre-A11/projects/tree/main/Bin2Dec)
 
 CodeWars Download
