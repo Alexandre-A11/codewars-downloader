@@ -11,4 +11,5 @@ $controllerName = $route[$uri]["Controller"];
 $methodName = $route[$uri]["Method"];
 
 (new $controllerName())->$methodName();
-
+// $call = new $controllerName();
+// $call->$methodName();
