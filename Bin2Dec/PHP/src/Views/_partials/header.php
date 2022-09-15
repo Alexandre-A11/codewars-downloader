@@ -8,5 +8,3 @@
     <title>Bin2Dec</title>
 </head>
 <body>
-
-
